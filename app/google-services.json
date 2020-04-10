@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975839447986",
+    "firebase_url": "https://signupui-496ea.firebaseio.com",
+    "project_id": "signupui-496ea",
+    "storage_bucket": "signupui-496ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975839447986:android:8f3cb0b76f91f61cb472ab",
+        "android_client_info": {
+          "package_name": "com.example.signupui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975839447986-33a0t9d75smgq92lfdg2sqhjc9p2t0ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signupui",
+            "certificate_hash": "0ed0845b650513ffa4d5650bc5fa4e770f454cab"
+          }
+        },
+        {
+          "client_id": "975839447986-edpch4jjhc0rlusssv9c5lten088s03k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YG6u26szgTHYoS1cxPrd2k2L8zjPoUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975839447986-edpch4jjhc0rlusssv9c5lten088s03k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
